@@ -1,1 +1,1 @@
-Esse Repositorio contem resolucoes de desafios propostos.
+Esse Repositorio contem resolucoes de desafios propostos pelo curso de Programacao.
