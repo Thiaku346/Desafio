@@ -1,1 +1,1 @@
-Esse Repositorio contem resolucoes de desafio propostos.
+Esse Repositorio contem resolucoes de desafios propostos.
